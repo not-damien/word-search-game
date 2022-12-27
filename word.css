@@ -9,3 +9,6 @@ table{
     border-collapse: collapse;
 
 }
+.correct{
+    background-color: lightgreen;
+}
